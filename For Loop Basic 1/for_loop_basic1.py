@@ -12,8 +12,8 @@ print("Counting, the Dojo Way")
 
 for z in range(1,101):
     if z % 10 == 0:
-        print("Coding ")
-    if z % 5 == 0:
+        print("Coding Dojo")
+    elif z % 5 == 0:
         print("Dojo")
     print(z)
 
