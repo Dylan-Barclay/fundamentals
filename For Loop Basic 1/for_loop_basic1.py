@@ -42,3 +42,5 @@ mult = 3
 for n in range(lowNum, highNum):
     if n % mult == 0:
         print(n)
+
+        # 4, quorarion marks, 6 c,11 d,13 move on to the nect function call
